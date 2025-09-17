@@ -5,11 +5,12 @@ function appendToDisplay(input){
 }
 
 function calculate(){
-    display.value = eval(display.value);
+    display.value = "Bapak Mulyono naik gorong2";
 }
 
 function clearDisplay(){
     display.value = "";
 }
+
 
 
